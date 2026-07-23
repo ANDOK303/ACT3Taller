@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "nombre": "ALejandro",
+        "apellido": "Max",
+        "edad": 21,
+        "correo": "a@gmail.com",
+        "contrasena": 123,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Algo",
+        "apellido": "Algo",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "andoki",
+        "apellido": "andoki",
+        "edad": 18,
+        "correo": "an@gmail.com",
+        "contrasena": 123,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 4,
+        "nombre": "andok",
+        "apellido": "gozo",
+        "edad": 19,
+        "correo": "and@gmail",
+        "contrasena": 123,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 5,
+        "nombre": "michael",
+        "apellido": "aquino",
+        "edad": 17,
+        "correo": "m@gmail.com",
+        "contrasena": 123,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    }
+]

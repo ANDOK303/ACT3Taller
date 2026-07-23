@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Consulta general",
+        "descripcion": "Revisión veterinaria básica",
+        "precio": 100,
+        "cuposDisponibles": 5
+    },
+    {
+        "id": 2,
+        "nombre": "wacho",
+        "descripcion": "dfasd",
+        "precio": 10,
+        "cuposDisponibles": 1
+    }
+]
